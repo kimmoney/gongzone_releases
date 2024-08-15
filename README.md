@@ -45,7 +45,9 @@ CPU : Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz 3.50 GHz
 
 RAM : DDR4 24GB
 
-시스템 종류 : 64비트 운영 체제, x64 기반 프로세서
+시스템 종류 : 64비트 운영 체제, x64 기반 프로세서'
+
+Python 3.8.7rc1
 
 PyQt5 5.15.9
 
